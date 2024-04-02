@@ -5,12 +5,12 @@
     border-radius: 10px;
     margin: 10px;
     padding:10%;
-    background-color: rgb(12, 164, 187);
+    background-color:aqua;
 }
 button{
     background-color: white;
     color: black;
-    padding: 16px;
+    padding: 16px 30px;
     margin: 50px auto;
     border-radius: 60px;
     border: none;
